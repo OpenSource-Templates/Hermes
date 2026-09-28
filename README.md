@@ -2,7 +2,7 @@
 
 Hermes Agent is an autonomous, self-improving AI agent from Nous Research. It lives on your infrastructure, talks to you over messaging platforms (Telegram, Discord, Slack, and more), runs tools and terminals, and grows more capable the longer it runs. This template deploys the official `nousresearch/hermes-agent` Docker image on Railway as a worker service with persistent state under `/data`, and always defaults to the `latest` image tag.
 
-[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/hermes-agent)
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/hermes-telegram)
 
 > Replace the deploy link above with your published Railway template URL once available.
 
